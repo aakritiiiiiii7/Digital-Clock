@@ -11,6 +11,7 @@ function App(){
         <option value="green">Green</option>
         <option value="orange">Orange</option>
         <option value="blue">Blue</option>
+        <option value="pink">Pink</option>
       </select>
       <Clock color={color}/>
     </div>
