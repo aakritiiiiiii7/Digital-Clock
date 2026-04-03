@@ -11,7 +11,7 @@ const Clock=({color})=>{
     },[]);
     return(
         <div>
-            <h1 style={{color:color,backgroundColor:'#000',width:'165px',padding:'10px',borderRadius:'10px'}}>{time}</h1>
+            <h1 style={{color:color,backgroundColor:'#000',width:'165px',padding:'10px',borderRadius:'10px',marginTop:'20px'}}>{time}</h1>
         </div>
     )
 }
